@@ -5,6 +5,8 @@ import SearchResults from '../SearchResults/SearchResults';
 import Playlist from '../Playlist/Playlist';
 import Spotify from '../../util/Spotify';
 
+// We're testing this
+
 class App extends React.Component {
   constructor(props) {
     super(props);
